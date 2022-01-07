@@ -1,0 +1,151 @@
+.footer {
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    color: #595964;
+    display: flex;
+    flex-direction: column;
+}
+
+.logo {
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 32px;
+    font-weight: 400;
+    color: #26262D;;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 5.5rem;
+    margin-top: 16px;
+}
+
+.logo span {
+    font-weight: 700;
+}
+
+.address {
+    margin-top: 16.14px;
+    width: 85%;
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: 5.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.add {
+    width: 12px;
+    height: 15.5px;
+    margin-right: 12px;
+    color: #3867d6;
+}
+
+.home-address {
+    line-height: 20px;
+}
+
+.remain {
+    margin-left: 1.5rem;
+}
+
+.button1 {
+    margin-left: 16px;
+    padding: 12px 22px;
+    width: 121px;
+    height: 54px;
+    left: 84.24%;
+    right: 0%;
+    font-size: 16px;
+    font-weight: 600;
+    top: calc(50% - 43px / 2);
+    background: #3867d6;
+    border: none;
+    border-radius: 80px;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.button2 {
+    margin-left: 16px;
+    padding: 12px 22px;
+    width: 121px;
+    height: 54px;
+    left: 84.24%;
+    right: 0%;
+    font-size: 16px;
+    font-weight: 600;
+    top: calc(50% - 43px / 2);
+    background: #ffffff;
+    border: 1.5px solid #4B6584;
+    border-radius: 80px;
+    color: #4B6584;
+    cursor: pointer;
+}
+
+.copyright {
+    font-size: 14px;
+}
+
+.copy-right {
+    width: 85%;
+    margin-top: 90px;
+    margin-left: 5.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.tag {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 14px;
+    color: #4B6584;
+}
+
+.tag1 {
+    text-decoration: none;
+    margin-right: 32px;
+    color: #4B6584;
+}
+.tag2 {
+    text-decoration: none;
+    margin-right: 32px;
+    color: #4B6584;
+}
+.tag3 {
+    text-decoration: none;
+    margin-right: 32px;
+    color: #4B6584;
+}
+.tag4 {
+    text-decoration: none;
+    color: #4B6584;
+}
+
+.social-icons {
+    margin-left: 5.5rem;
+    margin-bottom: 73px;
+    margin-top: 30px;
+}
+
+.fab {
+    font-size: 22px;
+    color: #3867d6;
+}
+
+.all-icons {
+    text-decoration: none;
+}
+
+.facebook {
+    margin-right: 28px;
+}
+
+.twitter {
+    margin-right: 28px;
+}
+
+.instagram {
+    margin-right: 28px;
+}
+

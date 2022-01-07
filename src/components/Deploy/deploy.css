@@ -1,0 +1,65 @@
+.deploy {
+    width: 100%;
+    margin-top: 100px;
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.group2 {
+    width: 605px;
+    height: 353px;
+    margin-right: 1.4em;
+    margin-top: -7.5rem;
+}
+
+.deploy-heading2 {
+    text-align: start;
+    font-size: 32px;
+    color: #26262D;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.heading-span {
+    color: #BD2D61;
+}
+
+.deploy-para {
+    text-align: start;
+    font-size: 16px;
+    font-weight: 400;
+    color: #595964;
+    line-height: 32px;
+}
+
+.deploy-ul {
+    list-style: none;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 35px;
+    color: #595964;
+}
+
+.deploy-ul li::before {
+    content: "\2022";
+    color: #3867d6;
+    width: 1em;
+    margin-left: -1em;
+    font-size: 40px;
+    position: absolute;
+}
+
+.color2 {
+    margin-top: -8.5rem;
+    width: 630px;
+    height: 723px;
+}
+
+.frame2 {
+    width: 500px;
+    height: 400px;
+    margin-bottom: 7.6rem;
+    margin-left: -39rem;
+}

@@ -1,0 +1,100 @@
+.container {
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.sidebar {
+    width: 571px;
+    height: 347px;
+    margin-top: 121px;
+}
+
+.heading {
+    font-family: 'Poppins', sans-serif;
+    font-size: 70px;
+    font-weight: 700;
+    margin-left: 61px;
+    margin-top: -76px;
+    color: #26262D;
+}
+
+.img {
+    position: relative;
+}
+
+.ellipse {
+    position: absolute;
+    width: 480px;
+    height: 76px;
+    top: 55%;
+    left: 5%;
+}
+
+.para {
+    margin-top: -30px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    word-spacing: 2px;
+    margin-left: 61px;
+    color: #595964;
+}
+
+.dot {
+    width: 123px;
+    height: 123px;
+}
+
+.buttons {
+    margin-top: 15px;
+    margin-left: 61px;
+}
+
+.try {
+    padding: 12px 22px;
+    width: 121px;
+    height: 54px;
+    font-size: 16px;
+    font-weight: 600;
+    background: #3867d6;
+    border: none;
+    border-radius: 80px;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.discover {
+    padding-right: 35px;
+    width: 202px;
+    height: 54px;
+    font-size: 16px;
+    font-weight: 600;
+    margin-left: 16px;
+    background: #ffffff;
+    border: 1px solid #4B6584;
+    border-radius: 80px;
+    color: #4B6584;
+    cursor: pointer;
+}
+
+.icon {
+    color: #ffffff;
+    width: 20px;
+    height: 20px;
+    background: #3867d6;
+    border-radius: 50%;
+    margin-left: 145px;
+    margin-top: -20px;
+}
+
+.arrow {
+    font-size: 10px;
+}
+
+.banner {
+    width: 694.84px;
+    height: 570px;
+    margin-top: 21px;
+}

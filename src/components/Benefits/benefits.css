@@ -1,0 +1,86 @@
+.benefits {
+    width: 100%;
+    margin-top: 100px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.benefit-heading1 {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    color: #3867d6;
+}
+
+.benefit-heading2 {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+    color: #26262D;
+    font-weight: 700;
+}
+
+.benefit-para {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    color: #595964;
+    line-height: 32px;
+}
+
+.group1 {
+    display: flex;
+}
+
+.color1 {
+    margin-top: -8.5rem;
+    margin-left: -1rem;
+    width: 630px;
+    height: 723px;
+}
+
+.frame1 {
+    width: 520px;
+    height: 400px;
+    margin-bottom: 7.6rem;
+    margin-left: -34rem;
+}
+
+.title1 {
+    width: 530px;
+    margin-top: 6.6rem;
+    margin-left: 9.5rem;
+}
+
+.h1 {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38px;
+    color: #26262D;
+}
+
+.p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    color: #595964;
+}
+
+.ul {
+    list-style: none;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 35px;
+    color: #595964;
+}
+
+.ul li::before {
+  content: "\2022";
+  color: #3867d6;
+  width: 1em;
+  margin-left: -1em;
+  font-size: 40px;
+  position: absolute;
+}
+

@@ -1,0 +1,106 @@
+.design {
+    width: 100%;
+    margin-top: 100px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.vector {
+    width: 104px;
+    height: 13px;
+}
+
+.head4 {
+    margin-top: 5px;
+    font-size: 32px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    line-height: 48px;
+}
+
+.create {
+    margin-top: -30px;
+    font-weight: 700;
+}
+
+.colour {
+    color: #BD2D61;
+}
+
+.second-half {
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+}
+
+.vactor-2 {
+    width: 209px;
+    position: absolute;
+    margin-left: 34.3%;
+    margin-top: 23%;
+}
+
+.group-image {
+    width: 530px;
+    height: 622px;
+    margin-top: .7rem;
+    margin-left: 20px;
+}
+
+.ellipse-group {
+    position: relative;
+    margin-left: 4.6rem;
+    margin-top: 3rem;
+}
+
+.ellipse-position {
+    position: absolute;
+}
+
+.ellipse-1 {
+    width: 620px;
+    height: 490px;
+    margin-left: 3.7rem;
+}
+
+.ellipse-2 {
+    margin-left: 39.33rem;
+    margin-top: -2.3rem;
+}
+
+.ellipse-3 {
+    margin-top: 37rem;
+    margin-left: 3.5rem;
+}
+
+.ellipse-4 {
+    margin-left: 27.75rem;
+    margin-top: 11rem;
+}
+
+.photo-group {
+    position: absolute;
+    display: flex;
+    margin-left: 8.7rem;
+    margin-top: -3rem;
+}
+
+.image-parts {
+    display: flex;
+    flex-direction: column;
+}
+
+.image-parts-1 {
+    margin-top: 3.5rem;
+}
+
+.part-position {
+    width: 151px;
+    height: 125px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}

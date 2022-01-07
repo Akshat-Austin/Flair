@@ -1,0 +1,98 @@
+.subscribe {
+    width: 100%;
+    height: 500px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.contain {
+    width: 85%;
+    height: 373px;
+    background-color: #3867D6;
+    border-radius: 16px;
+    color: #ffffff;
+}
+
+.subscribe-heading {
+    font-size: 32px;
+    line-height: 48px;
+    font-family: 'Poppins', sans-serif;
+    text-transform: capitalize;
+    font-weight: 700;
+    margin-top: 60px;
+}
+
+.subscribe-para {
+    font-size: 16px;
+    line-height: 28px;
+    margin-top: 16px;
+    font-weight: 400;
+}
+
+.subscribe-input {
+    position: relative;
+    padding-left: 22px;
+    width: 526px;
+    height: 53px;
+    background: #ffffff21;
+    color: #ffffff;
+    border: none;
+    border-radius: 80px;
+    font-size: 16px;
+    line-height: 21px;
+}
+
+.contain input::placeholder {
+    color: #ffffff;
+} 
+
+.subscribe-button {
+    position: absolute;
+    text-align: center;
+    width: 110px;
+    height: 39px;
+    border-radius: 60px;
+    font-size: 14px;
+    background-color: #ffffff;
+    border: none;
+    margin-top: 8px;
+    margin-left: -7.5rem;
+    color: #3867D6;
+    font-weight: 600;
+    line-height: 19px;
+    cursor: pointer;
+}
+
+.subscribe-search {
+    margin-top: 32px;
+}
+
+.color4{
+    position: absolute;
+    margin-top: 10.75rem;
+    border-bottom-left-radius: 16px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.color5{
+    position: absolute;
+    margin-left: 19.5rem;
+    border-top-right-radius: 16px;
+}
+
+.color6{
+    position: absolute;
+    display: flex;
+    justify-content: flex-end;
+    border-top-left-radius: 16px;
+}
+
+.color7{
+    position: absolute;
+    margin-left: 29.37rem;
+    margin-top: 13.7rem;
+    border-bottom-right-radius: 16px;
+}
