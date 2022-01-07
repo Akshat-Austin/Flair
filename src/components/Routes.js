@@ -8,6 +8,7 @@ import Design from './Design/Design'
 import Drive from './Drive/Drive'
 import Platform from './Platform/Platform'
 import ApiIntegrate from './ApiIntegrate/ApiIntegrate'
+import CarouselDiagram from './Carousel/Carousel'
 import Subscribe from './Subscribe/Subscribe'
 import Footer from './Footer/Footer'
 
@@ -23,6 +24,7 @@ const Routes = () => {
             <Drive />
             <Platform />
             <ApiIntegrate />
+            <CarouselDiagram/>
             <Subscribe />
             <Footer />
         </div>
